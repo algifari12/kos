@@ -1,2 +1,0 @@
-# kos
-sistem booking kos
